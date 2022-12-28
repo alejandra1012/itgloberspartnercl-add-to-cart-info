@@ -1,6 +1,37 @@
 .container{
   padding: 10px;
+  display: grid;
+  text-align: center;
 }
 .container__item{
   border-bottom: 1px solid #ccc;
+  font-size: 14px;
+  font-weight: bold;
+  color: #f50;
+}
+.container,
+.p{
+  font-weight: bold;
+}
+.containerButton{
+  display: flex;
+  align-items: center;
+  margin: 5px;
+}
+.links{
+  text-decoration: none;
+  text-decoration: none;
+    font-size: 12px;
+    margin: 5px;
+    color: #f50;
+    border: 1px solid;
+    padding: 5px;
+}
+.buttonSigueComprando{
+  font-size: 12px;
+  padding: 5px;
+  background-color: #f50;
+  border-color: #f50;
+  color: white;
+  text-transform: capitalize;
 }

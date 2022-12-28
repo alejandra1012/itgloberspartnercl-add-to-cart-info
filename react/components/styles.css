@@ -1,0 +1,6 @@
+.container{
+  padding: 10px;
+}
+.container__item{
+  border-bottom: 1px solid #ccc;
+}

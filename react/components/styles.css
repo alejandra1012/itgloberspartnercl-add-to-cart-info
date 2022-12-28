@@ -21,11 +21,12 @@
 .links{
   text-decoration: none;
   text-decoration: none;
-    font-size: 12px;
-    margin: 5px;
-    color: #f50;
-    border: 1px solid;
-    padding: 5px;
+  font-size: 12px;
+  margin: 5px;
+  color: #f50;
+  background-color: #ccc;
+  border: 1px solid;
+  padding: 5px;
 }
 .buttonSigueComprando{
   font-size: 12px;
